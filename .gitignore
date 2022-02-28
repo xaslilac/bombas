@@ -1,0 +1,13 @@
+.DS_Store
+.env*
+.idea/
+.now/
+.vscode/
+build/
+dist/
+node_modules/
+.parcel-cache/
+target/
+*.log
+*.pyc
+*.tsbuildinfo
